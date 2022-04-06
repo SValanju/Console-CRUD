@@ -1,0 +1,62 @@
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.exe
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.deps.json
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.json
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.dev.json
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.pdb
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samee\source\repos\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.AssemblyReference.cache
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfoInputs.cache
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfo.cs
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CoreCompileInputs.cache
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CopyComplete
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.dll
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.pdb
+C:\Users\samee\source\repos\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.genruntimeconfig.cache
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.exe
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.deps.json
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.json
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.dev.json
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\SQLcrud.pdb
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQLcrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfoInputs.cache
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfo.cs
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CoreCompileInputs.cache
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CopyComplete
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.dll
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.pdb
+D:\DcodeTech Projects\SQLcrud\obj\Debug\netcoreapp3.1\SQLcrud.genruntimeconfig.cache
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.exe
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.deps.json
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.json
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.runtimeconfig.dev.json
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\SQLcrud.pdb
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQL crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.AssemblyReference.cache
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.GeneratedMSBuildEditorConfig.editorconfig
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfoInputs.cache
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.AssemblyInfo.cs
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CoreCompileInputs.cache
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.csproj.CopyComplete
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.dll
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.pdb
+D:\DcodeTech Projects\SQL crud\obj\Debug\netcoreapp3.1\SQLcrud.genruntimeconfig.cache
